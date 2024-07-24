@@ -16,7 +16,7 @@ def app():
         Durch die Eingabe aller nötigen Informationen, wie Zielgruppendefinition und Unternehmensinformationen, kann die App personalisierte Werbebanner erstellen. Speichere alle Daten über den Button in der App, um die bestmöglichen Ergebnisse zu erzielen. Navigiere dann zur nächsten Seite. 
         
         Für die Erstellung der Werbebanner wird ein OpenAI-Modell verwendet, das auf den eingegebenen Informationen basiert. Du musst dafür keinen Prompt schreiben, es reicht, die benötigten Informationen in der App einzugeben.
-        Über den Chatbot am Ende der App, werden die Werbebanner generiert udn du kannst du mit dem OpenAI-Modell interagieren, sowie die generierten Werbebanner anpassen.
+        Über den Chatbot am Ende der App, werden die Werbebanner generiert und du kannst mit dem OpenAI-Modell interagieren, sowie die generierten Werbebanner anpassen.
     
         Um optimale Ergebnisse zu erzielen, benötigt die App folgende Daten:
         - Zielgruppendefinition (Alter, Geschlecht, Interessen) in Form einer User Persona
